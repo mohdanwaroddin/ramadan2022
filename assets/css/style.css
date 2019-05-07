@@ -1,0 +1,23 @@
+.cal-title{
+    text-align: center;
+}
+.ramadan-title{
+    text-align: center;
+}
+.ramadan-title h2{
+    color: green;
+}
+.r-cal tr td{
+    text-align: center;
+}
+.r-cal{
+    color: #000;
+}
+
+.footer-title h6{
+    color: #ddd;
+}
+.footer-title h6 a{
+    text-decoration: none;
+    color: #ddd;
+}
