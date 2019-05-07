@@ -33,3 +33,8 @@
 .r-cal tr td {
     font-size: 14px;
 }
+
+.vistors{
+    color: red;
+    display: block;
+}
