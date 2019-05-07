@@ -89,6 +89,13 @@
     /* iPhone 6, 7, 8 ----------- */
     @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
@@ -116,33 +123,82 @@
     
     @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     /* iPhone X ----------- */
     @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     /* iPhone XS Max, XR ----------- */
     @media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     @media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     /* Samsung Galaxy S3 ----------- */
     @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
     
     /* Samsung Galaxy S4 ----------- */
@@ -159,6 +215,13 @@
     
     @media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     
     }
     
@@ -176,4 +239,11 @@
     
     @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
     /* Styles */
+        .cal-title h1 {
+        font-size: 25px;
+    }
+
+    .cal-title h3 {
+        font-size: 20px;
+    }
     }
