@@ -10,6 +10,10 @@
 .r-cal tr td{
     text-align: center;
 }
+.r-cal tr th{
+    text-align: center;
+}
+
 .r-cal{
     color: #000;
 }
@@ -20,4 +24,12 @@
 .footer-title h6 a{
     text-decoration: none;
     color: #ddd;
+}
+
+.r-cal tr th {
+    font-size: 14px;
+}
+
+.r-cal tr td {
+    font-size: 14px;
 }
