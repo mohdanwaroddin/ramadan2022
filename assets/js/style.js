@@ -37,16 +37,16 @@ swal({
     button: "Thanks!",
  });
 
- var n = localStorage.getItem('on_load_counter');
+//  var n = localStorage.getItem('on_load_counter');
 
- if (n === null) {
-     n = 0;
- }
+//  if (n === null) {
+//      n = 0;
+//  }
 
- n++;
+//  n++;
 
- localStorage.setItem("on_load_counter", n);
+//  localStorage.setItem("on_load_counter", n);
 
- document.getElementById('CounterVisitor').innerHTML = n;
+//  document.getElementById('CounterVisitor').innerHTML = n;
 
  /* All Rights reserved by Sabbir */
