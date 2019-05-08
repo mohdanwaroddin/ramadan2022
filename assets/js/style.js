@@ -36,7 +36,7 @@ swal({
     icon: "success",
     button: "Thanks!",
  });
-
+document.addEventListener('contextmenu', event => event.preventDefault());
 //  var n = localStorage.getItem('on_load_counter');
 
 //  if (n === null) {
