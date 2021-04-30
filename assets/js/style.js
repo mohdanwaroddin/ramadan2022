@@ -2,7 +2,7 @@ $(function() {
   var d =new Date();
   var curmonth = d.getMonth()+1;
   var curDate = d.getFullYear()+"-"+curmonth+"-"+d.getDate();
-  alert(curDate);
+  //alert(curDate);
   $(".this-day[data-date="+curDate+"]").addClass("table-success");
 
 
