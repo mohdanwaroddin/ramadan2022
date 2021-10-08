@@ -1,3 +1,25 @@
+  #friday{
+        background-color: rgb(47, 255, 134);
+        color: white;
+    }
+    #friday:hover{
+        background-color: white;
+        color: rgb(47, 255, 75);
+        transition: 0.5s;
+        
+    }
+    #rm30{
+        background-color: darkcyan;
+    }
+    #ashra{
+        color: rgb(221, 21, 154);
+        font-family: algerian;
+    }
+   
+    #bord{
+        border: 2px solid rgb(0, 211, 200);
+    }
+
 .cal-title{
     text-align: center;
 }
